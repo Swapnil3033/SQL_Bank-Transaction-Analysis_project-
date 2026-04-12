@@ -1,1 +1,1 @@
-# SQL_Bank-Transaction-Analysis_project-
+# SQL_Projects
